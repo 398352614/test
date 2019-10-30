@@ -1,0 +1,5 @@
+public function count1(){
+        for($i=1;$i<1000;$i=$i+2){
+            echo $i,'<br>';
+        }
+    }
